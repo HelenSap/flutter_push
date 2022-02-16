@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
             const Align(
                 alignment: Alignment(0, -0.8),
                 child: Text(
-                  "The your\nreaction speed",
+                  "Test your\nreaction speed",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontSize: 38,
